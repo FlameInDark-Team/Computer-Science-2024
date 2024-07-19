@@ -16,20 +16,20 @@ This project includes a series of images showcasing various aspects of the websi
 
 3. **Home Page.png**
    - ![Home Page](./Home%20Page.png)
-   - Description: The home page layout of the website.
+   - Description: The home page layout of the website in compare to the sample which was given.
 
 4. **Web Page-2.png**
    - ![Web Page-2](./Web%20Page-2.png)
-   - Description: A detailed view of the second web page.
+   - Description: A detailed view of the second web page in compare to the sample which was given.
 
 5. **Web Page-3.png**
    - ![Web Page-3](./Web%20Page-3.png)
-   - Description: A detailed view of the third web page.
+   - Description: A detailed view of the third web page in compare to the sample which was given.
 
 6. **Web Page-4.png**
    - ![Web Page-4](./Web%20Page-4.png)
-   - Description: A detailed view of the fourth web page.
+   - Description: A detailed view of the fourth web page in compare to the sample which was given.
 
 7. **Web Page-5.png**
    - ![Web Page-5](./Web%20Page-5.png)
-   - Description: A detailed view of the fifth web page.
+   - Description: A detailed view of the fifth web page in compare to the sample which was given.
